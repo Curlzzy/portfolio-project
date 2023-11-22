@@ -1,7 +1,7 @@
 Dustin Curl
 A portfolio project for my Web Developement Fundamentals course with Nucamp. It is mostly a web page showing fuctions I can impliment. It also has links to my wifes photography page and social profiles.
 
-Screenshots
+#Screenshots
 <img width="1590" alt="Screenshot 2023-11-08 at 9 24 59 PM" src="https://github.com/Curlzzy/portfolio-project/assets/149919308/dbe66fb7-c215-4d38-86e5-67d7c7561609">
 <img width="1585" alt="Screenshot 2023-11-15 at 8 31 26 PM" src="https://github.com/Curlzzy/portfolio-project/assets/149919308/b7794640-b2cf-4052-b1b9-66cf9aa9c648">
 <img width="1455" alt="Screenshot 2023-11-21 at 9 48 53 PM" src="https://github.com/Curlzzy/portfolio-project/assets/149919308/3f0a9396-1578-45e8-aefc-121110cf30f9">
